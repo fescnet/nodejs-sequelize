@@ -1,0 +1,1 @@
+GET http://localhost:2999/api/organizations?page=1&pageSize=20 HTTP/1.1

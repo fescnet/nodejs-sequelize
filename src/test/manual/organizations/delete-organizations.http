@@ -1,0 +1,1 @@
+DELETE http://localhost:2999/api/organizations/1 HTTP/1.1
